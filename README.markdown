@@ -7,3 +7,4 @@ The project is a simple multi-module Maven project. To build the whole project, 
 Test Build Trigger
 
 Test Build Trigger
+I justed edied this file at 3:38pm
