@@ -2,6 +2,9 @@
   pipeline{
     //where pipeline job will run
 agent any
+tools {
+  maven 'Default'
+}
     //start of stages: build, test, deploy...
 stages{
       //start of stage: build
